@@ -11,5 +11,5 @@ while true do
   wait(3)
   wall.Position = right.Positon
   wait(3)
-	wall.Position = centralPosition
+  wall.Position = centralPosition
 end
